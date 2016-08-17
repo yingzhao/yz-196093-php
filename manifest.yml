@@ -1,0 +1,7 @@
+applications:
+- name: cognitive_sharewall
+  memory: 128M
+  buildpack: https://github.com/cloudfoundry/php-buildpack#v4.1.5
+  env:
+    CF_STAGING_TIMEOUT: 20
+    CF_STARTUP_TIMEOUT: 20

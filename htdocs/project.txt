@@ -1,0 +1,41 @@
+Project notes:
+---
+To track (analytics):
+- Where users are from
+- Views
+- Clicks on each post for each social media platform
+
+To do:
+- Set-up controller updates and saving
+- Get their twitter application api key
+- Analytics count and api for front-end to tap into
+- Break down by week, month, year quarter
+- Clicks to shares -> on admin
+- Count on the edit tweet box on front-end
+- On post click, populate the overlay with post text
+- Fix the image size on large posts
+- Logo integration
+- If there is a link, use the link the share button.
+- Go button on ShareWall
+- Logo show on post hover
+- Put the text into the help box
+- Change the colour picker colours to IBM approved colours
+- Capitalise the select
+- Change the height of the page on category selection
+- Get name from database in HomeController
+- Fix the javascript
+
+Notes from the call:
+---
+- Bluemix pricing re. emails and database use
+- Retweet button and integration with zSystems twitter account
+- Liam forward tipsheet
+- RSS functionality
+- LinkedIn
+- Instructions feed
+- Add the tags from the tipsheet
+- Screen space minimal button
+- Developer ->
+  - Explain things
+  - Issues of Bluemix
+  - Future management

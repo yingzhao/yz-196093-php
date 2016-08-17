@@ -1,0 +1,98 @@
+/* Custom admin panel styles */
+
+.no-gutter > [class*='col-'] {
+    padding-right:0;
+    padding-left:0;
+}
+
+.topAvatar {
+  background-color: white !important;
+}
+
+.topAvatar img {
+  width: 100%;
+}
+
+tr td:last-child{
+  width:1%;
+  white-space:nowrap;
+}
+
+td img {
+  height: 40px;
+}
+
+.alert {
+  margin-bottom: 0;
+  margin-top: 10px;
+}
+
+.alert:first-child {
+  margin-top: 0;
+}
+
+.moduleContainer a {
+  color: #666;
+}
+
+.module {
+  background-color: #f5f5f5;
+  border: solid 1px #ddd;
+  padding: 20px;
+  text-align: center;
+}
+
+.module:hover {
+  background-color: #e6e6e6;
+}
+
+tr form {
+  display: inline;
+}
+
+.form-group .input-group {
+  width: 100%;
+}
+
+.panel-body h3:first-child {
+  margin-top: 15px;
+}
+
+#imgPanel {
+  display: none;
+}
+
+#imgPanel .panel {
+  margin-top: 15px;
+  margin-bottom: 5px;
+}
+
+.panel-body img {
+  max-width: 100%;
+}
+
+#postText {
+  height: 100px;
+}
+
+#postCount {
+  margin-bottom: 0;
+}
+
+#liveurl-selected {
+  overflow-wrap: break-word;
+  height: 100px;
+}
+
+#imageUrlContainer {
+  margin-bottom: 10px;
+}
+
+.graph-title {
+  margin-bottom: 0;
+  text-align: center;
+}
+
+footer p {
+  margin-bottom: 50px;
+}
